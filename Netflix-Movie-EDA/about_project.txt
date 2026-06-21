@@ -1,0 +1,7 @@
+Netfilx is known for its work in data scinece AI and ML, particularly for building stodng recommentdation models and algorithsms tht understand customer behavior and patterns.Suppose you are working in data-driven hob role, and you have a dataset of more than 9000 movies. You need to solve the following questions to help the company make informed business decicions accordingly.
+
+1. What is the most frequent genre of movies released on Netflix?
+2. What genres has highest votes?
+3. What movies got hte highest popularity? what's its genre?
+4. What movies got the lowest popularity? what;s its genre?
+5. Which year has the most filmmed movies? 
